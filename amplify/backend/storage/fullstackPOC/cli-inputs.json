@@ -1,0 +1,14 @@
+{
+  "resourceName": "fullstackPOC",
+  "policyUUID": "da7c5961",
+  "bucketName": "pocbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

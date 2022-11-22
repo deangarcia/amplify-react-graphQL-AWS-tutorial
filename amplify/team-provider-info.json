@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyreactgraphqla8260b66b": {}
+      },
+      "api": {
+        "amplifyreactgraphqla": {}
+      },
+      "storage": {
+        "fullstackPOC": {}
       }
     }
   }
